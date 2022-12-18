@@ -1,0 +1,22 @@
+   0 mkdir -p /home/user/start 
+   1 cd home 
+   2 cd /home
+   3 ls
+   4 touch /home/user/start/1.txt 
+   5 tree 
+   6 start > 1.txt
+   7 start > /home/user/start/1.txt 
+   8 start > /user/start/1.txt 
+   9 echo "Start" > 1.txt 
+  10 date >> 1.txt
+  11 mkdir -p /opt/task 
+  12 ls
+  13 tree 
+  14 touch /home/opt/task/start.txt 
+  15 cd opt
+  16 cd/opt
+  17 mkdir -p /home/opt/task 
+  18 ls
+  19 touch /home/opt/task/start.txt 
+  20 cp /home/user/start/1.txt  /home/opt/task/start.txt 
+  21 history >history.txt 
